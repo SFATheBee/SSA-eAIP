@@ -29,7 +29,7 @@ At Windhoek there is 10000ft
 
 "Delivery Phraseology"
 
-    "(Callsign), cleared to (destination), via the (SID) departure, flight planned route, climb to 10000ft, Squawk (squawk)."
+    "(Callsign), cleared to (destination), flight planned route, via the (SID) departure, climb to 10000ft, passing 8000ft contact Windhoek Approach on 120.500, Squawk (squawk)."
 
 
 
